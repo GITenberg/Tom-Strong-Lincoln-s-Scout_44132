@@ -1,0 +1,28 @@
+_repo: Tom-Strong-Lincoln-s-Scout_44132
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44132-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Mason, Alfred Bishop
+    birthdate: 1851
+    deathdate: 1933
+    gutenberg_agent_id: '42598'
+    url: http://www.gutenberg.org/2009/agents/42598
+description: ''
+gutenberg_issued: '2013-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44132'
+  lccn: '19015575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcc 'PZ'
+title: "Tom Strong, Lincoln's Scout\r\nA Story of the United States in the Times That\
+  \ Tried Men's Souls"
+url: http://www.gutenberg.org/ebooks/44132
